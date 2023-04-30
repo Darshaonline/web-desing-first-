@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+    
+}
+.wrapper{
+    width: 600px;
+    height: auto;
+
+}
+/*nav bar*/
+
+nav img{
+    width: 600px;
+    height: 300px;
+
+}
+
+
+nav h2{
+    position: absolute;
+    margin-left:200px;
+    margin-top: 10px;
+    color: white;
+}
+
+.btn1{
+    margin-top:15px;
+    position: absolute;
+}
+
+.btn2{
+    margin-top: 230px;
+    position: absolute;
+    margin-left: 464px;
+    width: 120px;
+    height: 30px;
+    border-radius: 20px;
+    border: none;
+    background-color: #FF0000;
+    color: white;
+   
+}
+
+/*Body*/
+.main{
+    margin-left: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 63px;
+}
+
+table{
+    width: 80%;
+    padding: 10px;
+
+}
+
+table tr{
+ 
+
+}
+.Order-items h2{
+    position: absolute;
+  margin-left:0.5px;
+    margin-top:-44px;
+}
+
+
+.delivery{
+    margin-left: 50px;
+    margin-top: 25px;
+}
+
+.footer-buttons{
+   margin-left:164px;
+   margin-top: 20px;
+
+}
+.g-btn{
+ width: 250px;
+ height: 30px;
+ border-radius: 20px;
+ border: none;
+ color: white;
+ background-color: #FF0000;
+}
+
+.r-btn{
+    width: 250px;
+    margin-top: 10px;
+    height: 30px; 
+    border-radius: 20px;
+    border: none;
+    color:black;
+    background-color: #FFE5E5;
+
+}
+p{
+    opacity: 0.9;
+}
